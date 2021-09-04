@@ -11,7 +11,7 @@ Author sample conversations, called dialogs, in a declarative manner using Alexa
 
 ## Alexa Skill Insights (beta)	
 Receive customized recommendations to improve your skill quality and monetization opportunities from in-house experts	
-- [Preview Form](https://developer.amazon.com/en-US/docs/alexa/conversations/about-alexa-conversations.html)
+- [Preview Form](https://build.amazonalexadev.com/2021_Alexa_Skills_Insights_Interest.html)
 
 ## Alexa Entities	
 Retrieve additional factual information for given entities, simplifying content acquisition for your skills	
