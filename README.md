@@ -144,10 +144,12 @@ Test your voice interaction model accuracy with little effort
 ## Voice Forward Account Linking  (preview)	
 Make conversations more natural by allowing customers to link their third-party accounts or create new accounts using voice alone	
 - [Preview Form](https://build.amazonalexadev.com/2021_Voice_Forward_Account_Linking_Interest.html)
+- [Video](https://youtu.be/0tM3IGvs4Ac?t=263)
 
 ## Voice Forward Consent (preview)	
 Customers can grant permissions to share information such as name, phone number and email address using their voice	
 - [Preview Form](https://build.amazonalexadev.com/2021_Voice_Forward_Consent_Interest.html)
+- [Video](https://youtu.be/0tM3IGvs4Ac?t=229)
 
 ## Alexa for Apps’ Send to Phone (preview)	
 Send customers from your skill on any Alexa-enabled device to an app or website on a customer’s phone	
