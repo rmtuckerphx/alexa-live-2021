@@ -166,10 +166,12 @@ Customers can grant permissions to share information such as name, phone number 
 Send customers from your skill on any Alexa-enabled device to an app or website on a customer’s phone	
 - [Preview Form](https://build.amazonalexadev.com/2021_Alexa_Apps_Send_Interest.html)
 - [Video](https://youtu.be/-1q_zV3oT0k?t=438)
+- [Video](https://youtu.be/hkzlxndBJLk?t=96)
 
 ## Find My (private beta)	
 Help customers find important things they have misplaced such as keys, wallets, headphones, remotes	
 - [Interest Form](https://build.amazonalexadev.com/2021_Find_My_Interest.html)
+- [Video](https://youtu.be/hkzlxndBJLk?t=997)
 
 ## Slot Negation (preview)	
 Allow your customers to indicate things they don't want, like "shoes without white soles"	
