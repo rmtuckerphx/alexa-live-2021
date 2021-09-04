@@ -90,6 +90,7 @@ Integrate custom tasks with Alexa Routines to provide customers with richer expe
 ## ASK Toolkit for VS Code v2.6	
 Build and test your skills locally with VS Code	
 - [Toolkit](https://marketplace.visualstudio.com/items?itemName=ask-toolkit.alexa-skills-kit-toolkit)
+- [Video](https://youtu.be/-Vznmm18BHo?t=121)
 
 ## Interactive Media Vertical Solution (preview)	
 Create interactive experiences connected with your content on Alexa, such as, Song Request to DJ, Polls, and Contests	
