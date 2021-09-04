@@ -33,6 +33,7 @@ Allow customers to perform quick actions while staying in the current screen con
 - [Survey](https://alexa.au1.qualtrics.com/jfe/form/SV_5Bl4Kby07n9Bo1w)
 - [Blog](https://developer.amazon.com/en-US/blogs/alexa/alexa-skills-kit/2021/07/every-new-apl-feature-announced-at-alexa-live)
 - [Video](https://youtu.be/-ldHkTZ3U1M?t=171)
+- [Video](https://youtu.be/HVBQHFggYic?t=560)
 
 ## Featured skill cards on Echo Show (preview)	
 Promote your skill using pre-defined discovery cards, monitor performance, and convert top-of-funnel traffic to long-term engaged customers	
@@ -80,6 +81,7 @@ Earn a commission on qualifying purchases from the referrals made using Alexa Sh
 ## Rich Media on Detail Pages (preview)	
 Add media to your skill detail pages on the Alexa app to help customers understand your skill	
 - [Preview Form](https://build.amazonalexadev.com/2021_Rich_Media_Detail_Interest.html)
+- [Video](https://youtu.be/HVBQHFggYic?t=513)
 
 ## Custom Tasks in Routines (preview)	
 Integrate custom tasks with Alexa Routines to provide customers with richer experiences and drive more traffic to your skills	
