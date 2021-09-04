@@ -37,14 +37,17 @@ Allow customers to perform quick actions while staying in the current screen con
 ## Featured skill cards on Echo Show (preview)	
 Promote your skill using pre-defined discovery cards, monitor performance, and convert top-of-funnel traffic to long-term engaged customers	
 - [Preview Form](https://build.amazonalexadev.com/2021_Featured_Skill_Cards_Interest.html)
+- [Video](https://youtu.be/D6lrw5R566Y?t=74)
 
 ## Recommended skills in popular discovery phrases (preview)	
 Update your NFI container to have your skill suggested as Alexa’s first response to popular phrases	
 - [Preview Form](https://build.amazonalexadev.com/2021_Recommended_Skills_in_Discovery_Interest.html)
+- [Video](https://youtu.be/D6lrw5R566Y?t=127)
 
 ## Personalized skill suggestions with NFI (preview)	
 Name-free voice interactions surface your skill to customers who have previously expressed interest in your skill	
 - [Preview Form](https://build.amazonalexadev.com/2021_Skill_Suggestions_NFI_Interest.html)
+- [Video](https://youtu.be/D6lrw5R566Y?t=216)
 
 ## Event Based Triggers and Proactive Suggestions (coming soon)	
 Use specific triggers like initiating a morning commute to proactively suggest actions like locking your home	
@@ -54,20 +57,25 @@ Use specific triggers like initiating a morning commute to proactively suggest a
 ## NFI Container (preview)	
 Add NFI container to your eligible skills with self-serve experience and reduce friction for existing customers	
 - [Docs](https://developer.amazon.com/en-US/docs/alexa/custom-skills/understand-name-free-interaction-for-custom-skills.html)
+- [Video](https://youtu.be/D6lrw5R566Y?t=246)
 
 ## ISP International Expansion to IN, CA	
 Add In-Skill Purchasing (ISP) to your skill experiences in India and Canada	 
+- [Video](https://youtu.be/D6lrw5R566Y?t=1139)
 
 ## Paid Skills	
 Charge your customers upfront to access the core functionality of your skill
+- [Video](https://youtu.be/D6lrw5R566Y?t=1189)
 
 ## Alexa Shopping Actions (preview)	
 Create a shopping experience within your skill by recommending products	
 - [Preview Form](https://build.amazonalexadev.com/2021_Alexa_Shopping_Actions_Interest.html)
+- [Video](https://youtu.be/D6lrw5R566Y?t=1224)
 
 ## Amazon Associates on Alexa (preview)	
 Earn a commission on qualifying purchases from the referrals made using Alexa Shopping Actions	
 - [Preview Form](https://build.amazonalexadev.com/2021_Amazon_Associates_Interest.html)
+- [Video](https://youtu.be/D6lrw5R566Y?t=1364) 
 
 ## Rich Media on Detail Pages (preview)	
 Add media to your skill detail pages on the Alexa app to help customers understand your skill	
@@ -77,6 +85,7 @@ Add media to your skill detail pages on the Alexa app to help customers understa
 Integrate custom tasks with Alexa Routines to provide customers with richer experiences and drive more traffic to your skills	
 - [Preview Form](https://build.amazonalexadev.com/2021_Custom_Tasks_Routines_Interest.html)
 - [Docs](https://developer.amazon.com/en-US/docs/alexa/custom-skills/integrate-custom-task-with-alexa-routines.html)
+- [Video](https://youtu.be/D6lrw5R566Y?t=591)
 
 ## ASK Toolkit for VS Code v2.6	
 Build and test your skills locally with VS Code	
@@ -114,6 +123,7 @@ Run A/B Tests across multiple skill implementations and monitor new statistical 
 ## Sync Locales	
 Reduce time by propagating skill updates to additional locales supporting the same language	
 - [Docs](https://developer.amazon.com/en-US/docs/alexa/custom-skills/add-additional-locales-of-the-same-language-to-your-custom-skills.html)
+- [Video](https://youtu.be/D6lrw5R566Y?t=920)
 
 ## AI based Sample Utterance Recommendation Engine (beta)	
 Generate variations of samples utterances using machine learning	
@@ -169,5 +179,11 @@ Allow your customers to indicate things they don't want, like "shoes without whi
 With the new Alexa-hosted skills you get new ways to create your skills, higher performance and lower latency, and improved AWS integration.
 - [Video](https://youtu.be/UBWJlFpQg9U?t=1106)
 
+## Quick Links
+Launch Links
+- [Video](https://youtu.be/D6lrw5R566Y?t=404)
+
+Custom Tasks
+- [Video](https://youtu.be/D6lrw5R566Y?t=478)
 
 
