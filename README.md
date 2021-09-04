@@ -3,6 +3,7 @@
 ## Adaptive Mic Timeout (preview)	
 Give your customers more time to respond using a longer mic timeout 	
 - [Preview Form](https://build.amazonalexadev.com/2021_Adaptive_Mic_Timeout_Interest.html)
+- [Video](https://youtu.be/-C5gIRCzIsY?t=769)
 
 ## Alexa Conversations (beta DE, developer preview JP)	
 Author sample conversations, called dialogs, in a declarative manner using Alexa Conversations Description Language (ACDL)	
@@ -91,6 +92,7 @@ Build skills faster by simply plugging them into your existing voice models and 
 ## Shared Activities API (preview)	
 Unlock new ways for customers to play games by adding asynchronous multiplayer gameplay	
 - [Preview Form](https://build.amazonalexadev.com/2021_Shared_Activities_API_Interest.html)
+- [Video](https://youtu.be/-C5gIRCzIsY?t=119)
 
 ## Food Skill APIs (coming soon)	
 Add functionality at each stage of food ordering using pre-built experiences from discovery to ordering to tracking	
