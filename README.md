@@ -10,6 +10,7 @@ Author sample conversations, called dialogs, in a declarative manner using Alexa
 - [Preview Form](https://build.amazonalexadev.com/2021_Alexa_Conversations_Interest.html)
 - [Docs](https://developer.amazon.com/en-US/docs/alexa/conversations/about-alexa-conversations.html)
 - [Video](https://youtu.be/2_QIAYigXUk)
+- [Video](https://youtu.be/-ldHkTZ3U1M?t=517)
 
 ## Alexa Skill Insights (beta)	
 Receive customized recommendations to improve your skill quality and monetization opportunities from in-house experts	
@@ -25,11 +26,13 @@ Retrieve additional factual information for given entities, simplifying content 
 ## Alexa Skill Design Guide	
 Design guidance, principles, and best practices for building Alexa Skills	
 - [Learn more](https://alexa.design/design-guide)
+- [Video](https://youtu.be/-ldHkTZ3U1M?t=32)
 
 ## APL Widgets (preview)	
 Allow customers to perform quick actions while staying in the current screen context	
 - [Survey](https://alexa.au1.qualtrics.com/jfe/form/SV_5Bl4Kby07n9Bo1w)
 - [Blog](https://developer.amazon.com/en-US/blogs/alexa/alexa-skills-kit/2021/07/every-new-apl-feature-announced-at-alexa-live)
+- [Video](https://youtu.be/-ldHkTZ3U1M?t=171)
 
 ## Featured skill cards on Echo Show (preview)	
 Promote your skill using pre-defined discovery cards, monitor performance, and convert top-of-funnel traffic to long-term engaged customers	
@@ -46,6 +49,7 @@ Name-free voice interactions surface your skill to customers who have previously
 ## Event Based Triggers and Proactive Suggestions (coming soon)	
 Use specific triggers like initiating a morning commute to proactively suggest actions like locking your home	
 - [Preview Form](https://build.amazonalexadev.com/2021_Event_Based_Triggers_Interest.html)
+- [Video](https://youtu.be/-ldHkTZ3U1M?t=259)
 
 ## NFI Container (preview)	
 Add NFI container to your eligible skills with self-serve experience and reduce friction for existing customers	
@@ -81,6 +85,7 @@ Build and test your skills locally with VS Code
 ## Interactive Media Vertical Solution (preview)	
 Create interactive experiences connected with your content on Alexa, such as, Song Request to DJ, Polls, and Contests	
 - [Preview Form](https://build.amazonalexadev.com/2021_Interactive_Media_Vertical_Interest.html)
+- [Video](https://youtu.be/-1q_zV3oT0k?t=876)
 
 ## Amazon Music Spotlight Feature (preview)	
 Enables artists to share their latest content with fans curated for Alexa without coding	 
@@ -88,6 +93,7 @@ Enables artists to share their latest content with fans curated for Alexa withou
 ## Skill Components (preview)	
 Build skills faster by simply plugging them into your existing voice models and code libraries	
 - [Learn more](https://developer.amazon.com/en-US/alexa/alexa-skills-kit/get-deeper/skill-components)
+- [Video](https://youtu.be/-1q_zV3oT0k?t=788)
 
 ## Shared Activities API (preview)	
 Unlock new ways for customers to play games by adding asynchronous multiplayer gameplay	
@@ -97,6 +103,8 @@ Unlock new ways for customers to play games by adding asynchronous multiplayer g
 ## Food Skill APIs (coming soon)	
 Add functionality at each stage of food ordering using pre-built experiences from discovery to ordering to tracking	
 - [Preview Form](https://build.amazonalexadev.com/2021_Food_Skills_API_Interest.html)
+- [Video](https://youtu.be/-ldHkTZ3U1M?t=805)
+- [Video](https://youtu.be/-1q_zV3oT0k?t=182)
 
 ## Skill A/B Testing (preview)	
 Run A/B Tests across multiple skill implementations and monitor new statistical analytics	
@@ -144,6 +152,7 @@ Customers can grant permissions to share information such as name, phone number 
 ## Alexa for Apps’ Send to Phone (preview)	
 Send customers from your skill on any Alexa-enabled device to an app or website on a customer’s phone	
 - [Preview Form](https://build.amazonalexadev.com/2021_Alexa_Apps_Send_Interest.html)
+- [Video](https://youtu.be/-1q_zV3oT0k?t=438)
 
 ## Find My (private beta)	
 Help customers find important things they have misplaced such as keys, wallets, headphones, remotes	
