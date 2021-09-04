@@ -12,11 +12,13 @@ Author sample conversations, called dialogs, in a declarative manner using Alexa
 ## Alexa Skill Insights (beta)	
 Receive customized recommendations to improve your skill quality and monetization opportunities from in-house experts	
 - [Preview Form](https://build.amazonalexadev.com/2021_Alexa_Skills_Insights_Interest.html)
+- [Video](https://youtu.be/UBWJlFpQg9U?t=1076)
 
 ## Alexa Entities	
 Retrieve additional factual information for given entities, simplifying content acquisition for your skills	
 - [Docs](https://developer.amazon.com/en-US/docs/alexa/custom-skills/alexa-entities-reference.html)
 - [Blog](https://developer.amazon.com/en-US/blogs/alexa/alexa-skills-kit/2021/07/alexa-entities-launches-to-general-availability)
+- [Video](https://youtu.be/UBWJlFpQg9U?t=292)
 
 ## Alexa Skill Design Guide	
 Design guidance, principles, and best practices for building Alexa Skills	
@@ -96,6 +98,7 @@ Add functionality at each stage of food ordering using pre-built experiences fro
 ## Skill A/B Testing (preview)	
 Run A/B Tests across multiple skill implementations and monitor new statistical analytics	
 - [Preview Form](https://build.amazonalexadev.com/2021_Skill_AB_Testing_Interest.html)
+- [Video](https://youtu.be/UBWJlFpQg9U?t=869)
 
 ## Sync Locales	
 Reduce time by propagating skill updates to additional locales supporting the same language	
@@ -104,6 +107,7 @@ Reduce time by propagating skill updates to additional locales supporting the sa
 ## AI based Sample Utterance Recommendation Engine (beta)	
 Generate variations of samples utterances using machine learning	
 - [Docs](https://developer.amazon.com/en-US/docs/alexa/custom-skills/get-utterance-recommendations.html)
+- [Video](https://youtu.be/UBWJlFpQg9U?t=149)
 
 ## Fallback intent for new skills	
 Pick the best match for user utterances that you have not predicted	
@@ -112,16 +116,19 @@ Pick the best match for user utterances that you have not predicted
 ## Auto-Defect Reduction Service (ARES) (preview)	
 Identify and fix defective customer interactions with minimal to no effort	
 - [Preview Form](https://build.amazonalexadev.com/2021_ARES_Interest.html)
+- [Video](https://youtu.be/UBWJlFpQg9U?t=447)
 
 ## Customized Pronunciations (preview)	
 Ingest your own pronunciations in Alexa to improve the speech recognition of rare or custom words	
 - [Preview Forms](https://build.amazonalexadev.com/2021_Customized_Pronunciations_Interest.html)
+- [Video](https://youtu.be/UBWJlFpQg9U?t=737)
 
 ## Centralized Testing Tools (beta)	
 Test your voice interaction model accuracy with little effort	
 - [Preview Form](https://build.amazonalexadev.com/2021_Centralized_Testing_Tools_Interest.html)
 - [Doc](https://developer.amazon.com/en-US/docs/alexa/custom-skills/batch-test-your-nlu-model.html#create-annotation-set)
 - [Doc](https://developer.amazon.com/en-US/docs/alexa/asr/create-annotation-set.html#create-an-annotation-set-of-audio-files)
+- [Video](https://youtu.be/UBWJlFpQg9U?t=636)
 
 ## Voice Forward Account Linking  (preview)	
 Make conversations more natural by allowing customers to link their third-party accounts or create new accounts using voice alone	
@@ -142,6 +149,11 @@ Help customers find important things they have misplaced such as keys, wallets, 
 ## Slot Negation (preview)	
 Allow your customers to indicate things they don't want, like "shoes without white soles"	
 - [Preview Form](https://build.amazonalexadev.com/2021_Slot_Negation_Interest.html)
+- [Video](https://youtu.be/UBWJlFpQg9U?t=385)
+
+## Alexa-Hosted Skill Improvements
+With the new Alexa-hosted skills you get new ways to create your skills, higher performance and lower latency, and improved AWS integration.
+- [Video](https://youtu.be/UBWJlFpQg9U?t=1106)
 
 
 
